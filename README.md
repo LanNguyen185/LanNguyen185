@@ -10,7 +10,7 @@ My academic projects have provided hands-on experience in business analysis, sys
 
 | Project | Role | Key Output |
 |---|---|---|
-| Highlands Coffee Sales Management System | Business Analyst · System Analyst | BPMN, Use Case, DFD, ERD, C# WinForms, SQL Server, Power BI |
+| [Highlands Coffee Sales Management System](https://github.com/LanNguyen185/LanNguyen185) | Business Analyst · System Analyst | BPMN, Use Case, DFD, ERD, C# WinForms, SQL Server, Power BI |
 | ERP-SAP (GBI Case Study) | ERP Analyst · Business Process Analyst | SD · MM · PP · Bottleneck Analysis |
 | DSS – Adidas | Business Analyst · Data Analyst | KPI Dashboard, Power BI, Excel DSS, AI Chatbot |
 | UI/UX Language Learning App | UX Researcher · UI Designer | User Flow, Figma Prototype, Usability Testing |
