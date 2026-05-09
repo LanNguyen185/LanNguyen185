@@ -40,12 +40,14 @@ Bachelor of Management Information Systems · GPA 3.71/4.00
 # 🏆 Highlights
 
 🥇 Champion — UFM AI Chatbot Competition  
-🏅 Top 5 — Startup 2025 (VGuard Project)
+🏅 Top 5 — Startup 2025 (VGuard Project)  
+📜 TOEIC L&R: 690/900 · TOEIC S&W: 280/400  
+📚 SQL Masterclass Completion
 
 ---
 
 # 📬 Connect
 
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/h%C6%B0%C6%A1ng-lan-nguy%E1%BB%85n-b002a2328/)
 - Portfolio
-- Email
+- Email : huonglannguyen185@gmail.com
