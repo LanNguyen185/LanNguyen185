@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Nguyen Thi Huong Lan 👋
 
-<!--
-**LanNguyen185/LanNguyen185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst Intern · MIS Student at University of Finance & Marketing (UFM)
 
-Here are some ideas to get you started:
+My academic projects have provided hands-on experience in business analysis, systems design, ERP processes, data analytics, and UX research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🗂 Featured Projects
+
+| Project | Role | Key Output |
+|---|---|---|
+| Highlands Coffee Sales Management System | Business Analyst · System Analyst | BPMN, Use Case, DFD, ERD, C# WinForms, SQL Server, Power BI |
+| ERP-SAP (GBI Case Study) | ERP Analyst · Business Process Analyst | SD · MM · PP · Bottleneck Analysis |
+| DSS – Adidas | Business Analyst · Data Analyst | KPI Dashboard, Power BI, Excel DSS, AI Chatbot |
+| UI/UX Language Learning App | UX Researcher · UI Designer | User Flow, Figma Prototype, Usability Testing |
+
+---
+
+# 🛠 Core Skills
+
+### Business Analysis
+BPMN · Use Case · DFD · ERD · AS-IS/TO-BE Analysis · BRD
+
+### Data & Tools
+SQL Server · Power BI · SAP ERP · Figma · Enterprise Architect
+
+### Programming
+C# · Python (Basic) · HTML/CSS
+
+---
+
+# 🎓 Education
+
+University of Finance & Marketing (UFM)  
+Bachelor of Management Information Systems · GPA 3.71/4.00
+
+---
+
+# 🏆 Highlights
+
+🥇 Champion — UFM AI Chatbot Competition  
+🏅 Top 5 — Startup 2025 (VGuard Project)
+
+---
+
+# 📬 Connect
+
+- LinkedIn
+- Portfolio
+- Email
