@@ -49,5 +49,5 @@ Bachelor of Management Information Systems · GPA 3.71/4.00
 # 📬 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/h%C6%B0%C6%A1ng-lan-nguy%E1%BB%85n-b002a2328/)
-- Portfolio
+- [Portfolio](https://lannguyen185.github.io/Portfolio/)
 - Email : huonglannguyen185@gmail.com
