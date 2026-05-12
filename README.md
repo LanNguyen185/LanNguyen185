@@ -14,7 +14,7 @@ My academic projects have provided hands-on experience in business analysis, sys
 | ERP-SAP (GBI Case Study) | ERP Analyst · Business Process Analyst | SD · MM · PP · Bottleneck Analysis |
 | [DSS – Adidas](https://github.com/LanNguyen185/Adidas-Decision-Support-System) | Business Analyst · Data Analyst | KPI Dashboard, Power BI, Excel DSS, AI Chatbot |
 | UI/UX Language Learning App | UX Researcher · UI Designer | User Flow, Figma Prototype, Usability Testing |
-
+| Data Mining Applications in Healthcare & Business | Data Analyst · Data Mining Researcher | Data Preprocessing, Classification, Clustering, Predictive Analytics, Python, RapidMiner |
 ---
 
 # 🛠 Core Skills
